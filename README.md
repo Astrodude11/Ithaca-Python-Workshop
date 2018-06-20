@@ -10,6 +10,7 @@ Developed for undergraduate astronomy students at Ithaca College. Tutorials and 
 
 | Lesson 1 | Basic Data Structures |
 | -------- |:---------------------:|
+|          | Intro to Jupyter nb   |
 |          | Lists                 |
 |          | Dictionaries          |
 |          | Numoy arrays          |
