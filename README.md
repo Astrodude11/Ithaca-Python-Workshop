@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Developed for undergraduate astronomy students under the supervision of Luke Keller at Ithaca College. The goal of the workshop is to introduce basic data structures, file I/O, plotting, and reduction techniques for data analysis and visualization.
+Developed for undergraduate astronomy students under the supervision of Luke Keller at Ithaca College. The goal of the workshop is to introduce basic data structures, file I/O, plotting and displaying data and images, and analysis techniques for data analysis and visualization.
 
 ## Workshop Material
 
