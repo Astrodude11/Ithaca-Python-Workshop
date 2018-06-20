@@ -15,10 +15,28 @@ Each lesson contains a tutorial and lab contained in a Jupyter notebook. Worksho
 |          | Intro to Jupyter nb   |
 |          | Lists                 |
 |          | Dictionaries          |
-|          | Numoy arrays          |
+|          | NumPy arrays          |
 
 | Lesson 2 | File I/O |
 | -------- |:--------:|
 |          | Ascii    |
 |          | FITS     |
 |          | HDF5     |
+
+| Lesson 3 | Plotting and DS9 |
+| -------- |:----------------:|
+|          |                  |
+|          |                  |
+|          |                  |
+
+| Lesson 4 | Data Analysis |
+| -------- |:-------------:|
+|          |               |
+|          |               |
+|          |               |
+
+| Lesson 5 | GUIs |
+| -------- |:----:|
+|          |      |
+|          |      |
+|          |      |
